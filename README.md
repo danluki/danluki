@@ -1,4 +1,4 @@
-# danluki### A bit about me
+### A bit about me
 Hi, I'm **danluki** aka **Danil Lukinykh**. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilluk1&layout=compact&theme=cobalt&bg_color=00000000&border_color=00000000)](https://github.com/danilluk1)
