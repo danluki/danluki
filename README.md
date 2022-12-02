@@ -9,6 +9,7 @@
   <span style="bold">Currently I find myself interesting in web with this stack:</span>
   <div style="display: inline_block">
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+    <img align="center" height="80" width="80" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" />
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-plain.svg" />
     <img align="center" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
