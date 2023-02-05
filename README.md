@@ -34,21 +34,12 @@
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg" />
   </div>
 </div> 
-<!-- <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-plain.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
-</div> -->
+<hr/>
+<div align="right" dir="auto">
+  <a href="mailto:danluki02@yandex.ru">
+    <img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="https://t.me/danluki">
+    <img    src="https://camo.githubusercontent.com/89d78d0fa70764992eba5b56146673e6499f0cf440dd8c7a63f03a40df0acc78/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d2532333333323f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Telegram-%23332?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+</div>
