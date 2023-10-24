@@ -10,19 +10,23 @@
   <div style="display: inline_block">
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
     <img align="center" height="80" width="80" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" />
+    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" />
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-plain.svg" />
-    <img align="center" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" />
-    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" />
+    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
+    <img align="center" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" />
+    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" />
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
     <br><span style="bold">Favourite distros:</span><br>
-    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" />
     <img align="center" height="50" width="150" src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" />
+    <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" />
     <br><span style="bold">And also a bit frontend:</span><br>
-    <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
     <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" />
+    <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" />
     <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
     <br><span style="bold">In past I was working on:</span><br>
